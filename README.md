@@ -78,7 +78,7 @@ The main dashboard provides a real-time overview of fleet operations:
 
 ## 📸 Screenshots
 
-![DroneOps Command Center](dashboard.png)
+![DroneOps Command Center](Screenshot_1.png)
 
 ---
 
